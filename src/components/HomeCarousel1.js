@@ -95,7 +95,7 @@ const HomeCarousel1 = () => {
                     alt={image.alt}
                     className="w-full col-span-4 h-screen pb-10 pt-4 pl-2"
                   />
-                  <div className="grid col-span-2 grid-cols-1 pb-10 pt-4 pr-2">
+                  <div className="grid col-span-2 grid-cols-1 gap-4 pb-10 pt-4 pr-2">
                     <Card1></Card1>
                     <Card1></Card1>
                     <Card1></Card1>
